@@ -11,8 +11,10 @@ import net.javaguides.hibernate.util.HibernateUtil;
 public class App {
 	public static void main(String[] args) {
 
-		Student student = new Student("Ramesh", "Fadatare", "rameshfadatare@javaguides.com");
-		Student student1 = new Student("John", "Cena", "john@javaguides.com");
+		Student student = new Student("Ramesh", "Fadatare",
+				"rameshfadatare@javaguides.com");
+		Student student1 = new Student("John", "Cena",
+				"john@javaguides.com");
 		Transaction transaction = null;
 		try (Session session = HibernateUtil.getSessionFactory().openSession()) {
 			// start a transaction
