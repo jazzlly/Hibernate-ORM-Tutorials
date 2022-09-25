@@ -7,9 +7,15 @@
 		<artifactId>hibernate-tutorial</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent-->
+<<<<<<< HEAD
 	<groupId>net.javaguides.hibernate</groupId>
 	<artifactId>hibernate-xml-config-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+=======
+    <groupId>net.javaguides.hibernate</groupId>
+	<artifactId>hibernate-xml-config-example</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+>>>>>>> 625f0e73ffed3cd8a3c0045d7ae8b2625a594270
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

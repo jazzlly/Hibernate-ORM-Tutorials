@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hibernate-remove-entity-exmaple" />
+        <module name="hibernate-xml-config-example" />
+        <module name="hibernate-critiria-examples" />
+        <module name="hibernate-many-to-one-example" />
+        <module name="hibernate-many-many-example" />
+        <module name="hibernate-hql-examples" />
+        <module name="hibernate-one-to-many-bi-example" />
+        <module name="hibernate-native-sql-examples" />
+        <module name="hibernate-crud-example" />
+        <module name="hibernate-java-config-example (1)" />
+        <module name="hibernate-one-to-one-bi-example" />
+        <module name="hibernate-save-entity-example" />
+        <module name="hibernate-batch-examples" />
+        <module name="hibernate-event-listener-example" />
+        <module name="hibernate-get-entity-example" />
+        <module name="hibernate-java-config-example" />
+        <module name="hibernate-interceptor-example" />
+        <module name="hibernate-one-to-one-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hibernate-batch-examples" target="1.8" />
+      <module name="hibernate-critiria-examples" target="1.8" />
+      <module name="hibernate-crud-example" target="1.8" />
+      <module name="hibernate-event-listener-example" target="1.8" />
+      <module name="hibernate-get-entity-example" target="1.8" />
+      <module name="hibernate-hql-examples" target="1.8" />
+      <module name="hibernate-interceptor-example" target="1.8" />
+      <module name="hibernate-java-config-example" target="1.8" />
+      <module name="hibernate-java-config-example (1)" target="1.8" />
+      <module name="hibernate-many-many-example" target="1.8" />
+      <module name="hibernate-many-to-one-example" target="1.8" />
+      <module name="hibernate-native-sql-examples" target="1.8" />
+      <module name="hibernate-one-to-many-bi-example" target="1.8" />
+      <module name="hibernate-one-to-one-bi-example" target="1.8" />
+      <module name="hibernate-one-to-one-example" target="1.8" />
+      <module name="hibernate-remove-entity-exmaple" target="1.8" />
+      <module name="hibernate-save-entity-example" target="1.8" />
+      <module name="hibernate-tutorial" target="1.8" />
+      <module name="hibernate-xml-config-example" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

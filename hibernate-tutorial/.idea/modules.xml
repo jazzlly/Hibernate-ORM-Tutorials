@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hibernate-batch-examples/hibernate-batch-examples.iml" filepath="$PROJECT_DIR$/hibernate-batch-examples/hibernate-batch-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-critiria-examples/hibernate-critiria-examples.iml" filepath="$PROJECT_DIR$/hibernate-critiria-examples/hibernate-critiria-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-crud-example/hibernate-crud-example.iml" filepath="$PROJECT_DIR$/hibernate-crud-example/hibernate-crud-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-event-listener-example/hibernate-event-listener-example.iml" filepath="$PROJECT_DIR$/hibernate-event-listener-example/hibernate-event-listener-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-get-entity-example/hibernate-get-entity-example.iml" filepath="$PROJECT_DIR$/hibernate-get-entity-example/hibernate-get-entity-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-hql-examples/hibernate-hql-examples.iml" filepath="$PROJECT_DIR$/hibernate-hql-examples/hibernate-hql-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-interceptor-example/hibernate-interceptor-example.iml" filepath="$PROJECT_DIR$/hibernate-interceptor-example/hibernate-interceptor-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-java-config-example/hibernate-java-config-example.iml" filepath="$PROJECT_DIR$/hibernate-java-config-example/hibernate-java-config-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate-jpa-example/hibernate-java-config-example (1).iml" filepath="$PROJECT_DIR$/../hibernate-jpa-example/hibernate-java-config-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-many-many-example/hibernate-many-many-example.iml" filepath="$PROJECT_DIR$/hibernate-many-many-example/hibernate-many-many-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-many-to-one-example/hibernate-many-to-one-example.iml" filepath="$PROJECT_DIR$/hibernate-many-to-one-example/hibernate-many-to-one-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-native-sql-examples/hibernate-native-sql-examples.iml" filepath="$PROJECT_DIR$/hibernate-native-sql-examples/hibernate-native-sql-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-one-to-many-example/hibernate-one-to-many-bi-example.iml" filepath="$PROJECT_DIR$/hibernate-one-to-many-example/hibernate-one-to-many-bi-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-one-to-one-bi-example/hibernate-one-to-one-bi-example.iml" filepath="$PROJECT_DIR$/hibernate-one-to-one-bi-example/hibernate-one-to-one-bi-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-one-to-one-example/hibernate-one-to-one-example.iml" filepath="$PROJECT_DIR$/hibernate-one-to-one-example/hibernate-one-to-one-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-remove-entity-exmaple/hibernate-remove-entity-exmaple.iml" filepath="$PROJECT_DIR$/hibernate-remove-entity-exmaple/hibernate-remove-entity-exmaple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-save-entity-example/hibernate-save-entity-example.iml" filepath="$PROJECT_DIR$/hibernate-save-entity-example/hibernate-save-entity-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-xml-config-example/hibernate-xml-config-example.iml" filepath="$PROJECT_DIR$/hibernate-xml-config-example/hibernate-xml-config-example.iml" />
+    </modules>
+  </component>
+</project>

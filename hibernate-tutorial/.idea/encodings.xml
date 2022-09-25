@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../hibernate-jpa-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-batch-examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-crud-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-get-entity-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-java-config-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-one-to-many-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-one-to-one-bi-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-one-to-one-bi-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-one-to-one-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-one-to-one-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-remove-entity-exmaple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-save-entity-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-save-entity-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-xml-config-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-xml-config-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+  </component>
+</project>
